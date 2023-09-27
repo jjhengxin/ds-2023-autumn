@@ -1,6 +1,6 @@
 # ds-2023-autumn
 homework01的结果
-homework02见homework02分支
+后续作业见相应分支
 
 
 
