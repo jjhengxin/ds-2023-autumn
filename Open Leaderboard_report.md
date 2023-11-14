@@ -1,3 +1,50 @@
-2015年Ant Design 发布第一个版本
-2020年8月 发布4.0
+![image](https://github.com/jjhengxin/ds-2023-autumn/assets/144665728/cd6f98fb-fba6-45de-bb39-7a1785f21c12)# Ant Design 一套企业级 UI 设计语言和 React 组件库
+
+![image](https://github.com/jjhengxin/ds-2023-autumn/assets/144665728/68334e67-e0ff-45d0-a356-1b0de015c914)
+
+![image](https://github.com/jjhengxin/ds-2023-autumn/assets/144665728/104c50b1-9c4c-4a8a-a007-9c4a93787772)
+
+
+通过观察发现两幅图的边都较多，表明该项目与其他项目之间联系大，贡献者们之间的合作也较紧密。
+
+## 开源项目洞察大屏
+
+![image](https://github.com/jjhengxin/ds-2023-autumn/assets/144665728/be69a1a8-f2d5-4da3-ac32-61342875428d)
+
+在大屏的最上面展示了项目的Star新增、Fork新增、Star总数、Fork总数、巴士系数和参与人数的值，鼠标移到旁边的信息提示标记上还能获得名词的解释。
+
+### 以项目关注度、项目OpenRank和代码变更行数三幅图表为例来获取信息。
+
 ![image](https://github.com/jjhengxin/ds-2023-autumn/assets/144665728/afc719c3-31c5-4753-9ee4-63515d888b57)
+
+从关注度图来看，2021年5月，2018年12月和2021年12月关注度最高
+
+![image](https://github.com/jjhengxin/ds-2023-autumn/assets/144665728/3c1c3b9a-6838-44fa-85d9-78c20b814bb8)
+
+openrank值在2018年12月和2020年4、5月最大，但在2021年11、12月到达一个波谷
+
+![image](https://github.com/jjhengxin/ds-2023-autumn/assets/144665728/16595722-15fa-4680-adb6-36fb0984b2cf)
+
+代码变更行数分为添加、删除和更改总量。更改总量每月分布差异较大，在2021年8月到2022年7月时间段内集中有多次达到显著的波峰
+
+除此之外，发现每幅图表都可以通过拖动下方滑动条控制展示的时间范围。统计图随之发生顺滑的变化。
+
+通过点击右上角的对于数据要素的注释，还可以控制展示的要素个数。如点击代码变更行数图中右上角的删除量和变更总量，可以只看添加量的变化情况，并且图表在画布中间的布局也会随之调整。
+
+### 分析思考：
+
+上网搜索了antdesign各个版本的发布时间。
+
+2015年Ant Design 发布第一个版本
+
+2016年9月 发布2.0
+
+2017年12月 发布3.0
+
+2020年8月 发布4.0
+
+2022年9月 发布5.0
+
+发现与项目仓库活跃的时间并不是很相符。。。thinking.....
+
+项目贡献者多且贡献较均匀，社区同学提供的宝贵建议与代码贡献，使 Ant Design 在短时间内完成了大量的改造工作。
