@@ -1,4 +1,4 @@
-![image](https://github.com/jjhengxin/ds-2023-autumn/assets/144665728/cd6f98fb-fba6-45de-bb39-7a1785f21c12)# Ant Design 一套企业级 UI 设计语言和 React 组件库
+# Ant Design 一套企业级 UI 设计语言和 React 组件库
 
 ![image](https://github.com/jjhengxin/ds-2023-autumn/assets/144665728/68334e67-e0ff-45d0-a356-1b0de015c914)
 
